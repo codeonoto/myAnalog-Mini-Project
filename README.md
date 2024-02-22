@@ -1,18 +1,17 @@
 <div align="right">
   <a href='' target="_blank"><img alt='github' src='https://img.shields.io/badge/miniProjectz-100000?style=plastic&logo=github&logoColor=white&labelColor=black&color=black'/></a>  
 </div>
+<div align="center">
 
 # myAnalogClock - Mini Project
 
 ## Overview
 
-Dive into the world of web development with this quick and straightforward mini project – the Simple Analog Clock. Crafted in under `20 minutes` , this mini project is part of an exciting new series showcasing bite-sized web development wonders.
+Dive into the world of web development with this quick and straightforward mini project – the Simple Analog Clock. Crafted in under `20minutes` , this mini project is part of an exciting new series showcasing bite-sized web development wonders.
 
 ### Tools Used
 
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Color Schemes
 
@@ -31,5 +30,4 @@ Dive into the world of web development with this quick and straightforward mini 
 | Minute Hand             | ![#555843](https://via.placeholder.com/10/555843?text=+) #555843       |
 | Second Hand             | ![#F9B572](https://via.placeholder.com/10/F9B572?text=+) #F9B572       |
 
-
-
+</div>
